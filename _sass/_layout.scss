@@ -218,6 +218,7 @@
 
     h2 {
         font-size: 32px;
+        color: #e20133;
 
         @include media-query($on-laptop) {
             font-size: 28px;
