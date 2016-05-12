@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Data Dome Unity Toolkit Documentation“
+title:  Data Dome Unity Toolkit Documentation
 date:   2016-05-11 14:38:08 +0100
 categories: Data Dome
 ---
