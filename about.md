@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+[At-Bristol](http://at-bristol.org.uk) is a two-floor science centre filled with interactive exhibits, activities and live shows – we aim to inspire visitors of all ages with a sense of adventure and curiosity about the world we live in.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+We are charity who receives no direct central government funding and rely on ongoing support from our visitors, members, board of trustees, grantmakers, corporate partners, volunteers and content producers.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This developer site hosts the experiments and open source tools we create.
+
+
+
