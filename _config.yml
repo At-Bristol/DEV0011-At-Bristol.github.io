@@ -9,10 +9,10 @@
 title: At-Bristol Developers
 email: seamus.foley@at-bristol.org.uk
 description: > # this means to ignore newlines until "baseurl:"
-  At-Bristol developers
+  At-Bristol Developers
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://at-bristol.org.uk" # the base hostname & protocol for your site
-twitter_username: At-Bristol
+twitter_username: AtBristol
 github_username:  At-Bristol
 
 # Build settings
